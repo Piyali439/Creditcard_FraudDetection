@@ -1,6 +1,7 @@
 This repository contains a machine learning project for detecting fraudulent credit card transactions. Using a dataset of anonymized credit card transactions, the goal is to build and evaluate models that can effectively distinguish between legitimate and fraudulent activity.
 
 **Dataset**
+
 The dataset used is the Kaggle Credit Card Fraud Detection dataset, which contains transactions made by European cardholders in September 2013. It consists of 284,807 transactions, of which 492 are frauds (~0.172%).
 
 Features are numerical, resulting from a PCA transformation for confidentiality.
